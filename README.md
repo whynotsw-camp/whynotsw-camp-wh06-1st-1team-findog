@@ -31,7 +31,10 @@
 
 ## :dog: 서비스 개요
 
+
 - **기존 서비스의 한계**
+
+    [![포인핸드](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/hand.png)](https://pawinhand.kr/)
 
     + 방대한 데이터로 인한 사용자 피로도 증가
     + 비효율적인 노출 구조
