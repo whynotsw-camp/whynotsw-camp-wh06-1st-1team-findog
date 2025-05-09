@@ -18,6 +18,8 @@
 | **6개월차** |어플리케이션 개발 및 최적화<br>사용자 테스트 및 발표 준비|
 
 
+---
+
 
 ## :pushpin: 프로젝트 정의
 - **프로젝트명** : 다시만나개
@@ -40,6 +42,9 @@
     + 반려동물 관련 소셜 미디어 언급량 증가
 
     + 반려동물 관련 앱 사용자 연령대 확대
+
+
+---
 
 
 ## :pushpin: 서비스 개요
@@ -72,6 +77,9 @@
     | **분실동물 재회율 향상** | 사진 기반 검색으로 빠르고 정확한 재회 지원 |
     | **유기동물 입양률 증가** | 맞춤형 추천과 노출 시스템 개선으로 입양률 향상 |
     | **보호소 과부화 문제 개선**| 입양 촉진을 통해 보호소 과부화 해소 |
+
+
+---
 
 
 ## :pushpin: 프로젝트 설계
@@ -108,6 +116,9 @@
 
 ![ERD](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/erd.png)
 ![ERD2](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/erd2.png)
+
+
+---
 
     
 
