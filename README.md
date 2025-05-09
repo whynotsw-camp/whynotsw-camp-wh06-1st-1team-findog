@@ -60,7 +60,8 @@
 ## :dog: 프로젝트 설계
 
 - **사용 스택**
-![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/drawio_1.png)
+![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image2.png)
+![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/drawio_2.png)
 
 - **시스템 아키텍쳐**
 
@@ -68,7 +69,7 @@
 
 - **전체 서비스 플로우**
 
-![서비스플로우](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/drawio_1.png)
+![서비스플로우](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image3.jpg)
 
 - **데이터 선정**
 
