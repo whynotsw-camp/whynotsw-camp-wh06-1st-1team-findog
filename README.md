@@ -5,7 +5,7 @@
 
 | **김예솔** | **김채린** | **권동현** |
 |:--:|:--:|:--:|
-|![dog1](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/dog1.png)|![dog2](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/dog2.jpg)|![dog3](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/dog3.jpg)|
+|![dog1](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/dog1.jpg)|![dog2](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/dog3.jpg)|![dog3](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/dog2.jpg)|
 | 서비스 플로우,<br>시스템 아키텍쳐 설계 | 발표 자료 제작,<br>UI 디자인 | DB ERD,<br>데이터 수집 및 가공 |
 
 
