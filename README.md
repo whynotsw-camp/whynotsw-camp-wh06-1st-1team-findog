@@ -36,10 +36,10 @@
 
     [![포인핸드](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/hand.png)](https://pawinhand.kr/)
 
-    + 방대한 데이터로 인한 사용자 피로도 증가
-    + 비효율적인 노출 구조
-    + 사용자 특성을 반영하지 못한 입양 추천
-    + 특정 개체 인기 편중 현상
+    + **방대한 데이터로 인한 사용자 피로도 증가**
+    + **비효율적인 노출 구조**
+    + **사용자 특성을 반영하지 못한 입양 추천**
+    + **특정 개체 인기 편중 현상**
 
 
 - **핵심 차별화 전략**
