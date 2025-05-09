@@ -85,14 +85,14 @@
 ## :pushpin: 프로젝트 설계
 
 
-- **기술 스택**
+### :wrench: **기술 스택**
 ![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/drawio_2.png)
 
 
 ---
 
 
-- **시스템 아키텍쳐**
+### :hammer: **시스템 아키텍쳐**
 
 ![시스템아키텍쳐](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/drawio_1.png)
 
@@ -100,7 +100,7 @@
 ---
 
 
-- **전체 서비스 플로우**
+### :mag_right: **전체 서비스 플로우**
 
 ![서비스플로우](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/image3.jpg)
 
@@ -108,7 +108,7 @@
 ---
 
 
-- **데이터 선정**
+### :pencil: **데이터 선정**
 
 | **데이터**  | **출처** | **데이터<br>형태** | **활용 방안** |
 |:--:|:--:|:--:|:--:|
@@ -118,7 +118,7 @@
 |반려동물 구분 동물 영상| AI Hub | OpenAPI | 선호도 검사 결과를 바탕으로<br>품종 이미지과 영상 데이터를 학습한 모델을 활용해 강아지 품종 추천 |
 
 
-- **DB - ERD**
+### :file_folder: **DB - ERD**
 
 [테이블정의서](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
 
