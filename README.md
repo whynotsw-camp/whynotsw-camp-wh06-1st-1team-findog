@@ -65,7 +65,6 @@
 
 
 - **사용 스택**
-![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/image2.png)
 ![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/drawio_2.png)
 
 
