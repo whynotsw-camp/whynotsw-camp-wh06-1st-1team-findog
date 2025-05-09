@@ -89,6 +89,9 @@
 ![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/drawio_2.png)
 
 
+---
+
+
 - **시스템 아키텍쳐**
 
 ![시스템아키텍쳐](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/drawio_1.png)
