@@ -1,1 +1,3 @@
-# whynotsw-camp-wh06-1st-1team-findog
+# 프로젝트 기획서
+
+## :dog:프로젝트 개요
