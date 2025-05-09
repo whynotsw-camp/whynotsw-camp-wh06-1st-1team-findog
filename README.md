@@ -78,6 +78,7 @@
 ![서비스플로우](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/image3.jpg)
 
 
+
 - **데이터 선정**
 
 | **데이터**  | **출처** | **데이터<br>형태** | **활용 방안** |
