@@ -61,18 +61,18 @@
 
 
 - **사용 스택**
-![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image2.png)
-![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/drawio_2.png)
+![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/image2.png)
+![사용스택](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/drawio_2.png)
 
 
 - **시스템 아키텍쳐**
 
-![시스템아키텍쳐](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/drawio_1.png)
+![시스템아키텍쳐](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/drawio_1.png)
 
 
 - **전체 서비스 플로우**
 
-![서비스플로우](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image3.jpg)
+![서비스플로우](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/image3.jpg)
 
 
 - **데이터 선정**
@@ -89,7 +89,8 @@
 
 [테이블정의서](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
 
-    
+[ERD](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/erd.png)
+[ERD2](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/image/erd2.png)
 
     
 
