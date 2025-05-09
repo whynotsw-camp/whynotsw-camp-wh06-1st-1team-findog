@@ -72,6 +72,8 @@
 
 - **DB - ERD**
 
+[테이블정의서](https://github.com/whynotsw-camp/whynotsw-camp-wh06-1st-1team-findog/blob/main/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
+
     
 
     
